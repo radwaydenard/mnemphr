@@ -32,11 +32,9 @@ acquire
 acquit
 across
 act
-act on
 acute
 adamant
-add to
-add up
+add
 addict
 addition
 adhere
@@ -193,12 +191,7 @@ assure
 astonish
 astound
 asylum
-at all
-at first
-at last
-at least
 odds
-at once
 moment
 atop
 atrocity
@@ -253,7 +246,6 @@ bandage
 bang
 banish
 bank
-bank on
 bankrupt
 banner
 baptize
@@ -288,7 +280,6 @@ bear
 beard
 beast
 beat
-beat up
 beauty
 beaver
 beckon
@@ -359,7 +350,6 @@ bliss
 blizzard
 bloat
 block
-block up
 blonde
 bloom
 blossom
@@ -401,7 +391,6 @@ bounds
 bounty
 bout
 bow
-bow out
 bowel
 bowl
 brace
@@ -466,7 +455,6 @@ bunny
 burden
 burglar
 burn
-burn out
 burrow
 burst
 bury
@@ -475,15 +463,11 @@ bustle
 busy
 butcher
 butt
-butt in
 butter
 button
 buy
-buy up
 buzz
 chance
-by far
-by heart
 oneself
 way
 bypass
@@ -570,13 +554,10 @@ chase
 chat
 chatter
 cheat
-cheat on
 check
 checkup
 cheek
 cheer
-cheer on
-cheer up
 cheerful
 chef
 cherish
@@ -621,7 +602,6 @@ clasp
 clause
 claw
 clay
-clean up
 cleanse
 clear
 cleave
@@ -637,7 +617,7 @@ cling
 clip
 cloak
 clog
-close 
+close
 closet
 closure
 cloth
@@ -760,7 +740,6 @@ cough
 council
 counsel
 count
-count on
 counter
 county
 coup
@@ -823,7 +802,6 @@ crunch
 crusade
 crush
 crust
-cry out
 cub
 cubicle
 cucumber
@@ -865,11 +843,8 @@ database
 date
 daunt
 dawn
-dawn on
-day off
 daze
 dazzle
-dead end
 deaf
 deal
 debate
@@ -957,8 +932,6 @@ dial
 diamond
 diary
 dice
-die down
-die out
 differ
 diffuse
 dig
@@ -1021,8 +994,6 @@ divide
 divine
 divorce
 dizzy
-do about
-do up
 without
 dock
 dodge
@@ -1046,18 +1017,14 @@ downturn
 dozen
 draft
 drag
-drag on
 drain
 drastic
 draw
-draw up
 drawback
 drawer
 dread
 dream
-dream up
 dress
-dress up
 drift
 drill
 drills
@@ -1070,14 +1037,12 @@ drown
 drug
 drum
 dry
-dry up
 dual
 dub
 dubious
 duckling
 dude
 due
-due to
 duke
 dull
 dumb
@@ -1092,7 +1057,6 @@ dust
 duty
 dwarf
 dwell
-dwell on
 dwindle
 dye
 eager
@@ -1105,8 +1069,6 @@ quake
 ease
 east
 easter
-eat out
-eat up
 echo
 eclipse
 edge
@@ -1123,7 +1085,6 @@ elect
 elevate
 elicit
 eligible
-eliminate
 elk
 eloquent
 elude
@@ -1144,7 +1105,6 @@ enable
 enact
 enchant
 enclose
-end up
 endanger
 endeavor
 endorse
@@ -1955,7 +1915,6 @@ lie
 lifelong
 lift
 light
-lightning
 like
 likely
 likewise
